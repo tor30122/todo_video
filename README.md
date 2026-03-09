@@ -1,6 +1,6 @@
 <div align="right">
 
-![Løst - 0/8 issues](https://img.shields.io/badge/Løst-2%2F8_issues-blue?style=flat-square)
+![Løst - 0/8 issues](https://img.shields.io/badge/Løst-3%2F8_issues-blue?style=flat-square)
 
 </div>
 
