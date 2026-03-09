@@ -1,0 +1,5 @@
+node_modules/
+.github/grading/node_modules/
+.github/grading/screenshot.png
+.github/grading/results.json
+.DS_Store
